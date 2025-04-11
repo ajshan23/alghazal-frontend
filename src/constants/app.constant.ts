@@ -1,0 +1,5 @@
+export const APP_NAME = 'Igniteway'
+export const PERSIST_STORE_NAME = 'admin'
+export const REDIRECT_URL_KEY = 'redirectUrl'
+export const BASE_URL = 'http://localhost:4000/api'
+// export const BASE_URL = 'https://mytest.in/api'
